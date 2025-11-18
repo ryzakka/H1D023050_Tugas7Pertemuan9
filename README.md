@@ -1,5 +1,5 @@
 
-![](Lib/BerkasScreenshot/g1.png)
-![](Lib/BerkasScreenshot/g2.png)
-![](Lib/BerkasScreenshot/g3.png)
-![](Lib/BerkasScreenshot/g4.png)
+![](lib/BerkasScreenshot/g1.png)
+![](lib/BerkasScreenshot/g2.png)
+![](lib/BerkasScreenshot/g3.png)
+![](lib/BerkasScreenshot/g4.png)
